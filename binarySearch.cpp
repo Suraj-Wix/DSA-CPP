@@ -41,4 +41,3 @@ int main()
 
     cout << BinarySearch(arr, n, key);
     return 0;
-}
